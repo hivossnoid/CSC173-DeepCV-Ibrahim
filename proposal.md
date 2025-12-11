@@ -1,4 +1,4 @@
-##CSC173 Deep Computer Vision ProjectCSC173 Deep Computer Vision Project 
+## CSC173 Deep Computer Vision ProjectCSC173 Deep Computer Vision Project 
 
 - ProposalStudent: Abdallah Ibrahim, 2022-1684 
 - Date: 12/11/2025
