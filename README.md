@@ -2,8 +2,8 @@
 
 - CSC173 Intelligent Systems Final Project
 - Mindanao State University - Iligan Institute of Technology
-- Student: [Your Full Name], [Student ID]
-- Semester: [e.g., AY 2025-2026 Sem 1]
+- Student: Abdallah Ibrahim, 2022-1684
+- Semester: AY 2025-2026 Sem 1
 
 ## Abstract
 
